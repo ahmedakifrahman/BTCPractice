@@ -23,13 +23,17 @@ public class SeleniumHelper {
 	}
 
 	public void gitprice() {
-		
+
 	}
-	
+
+	public void m1() {
+
+	}
+
 	public void gitprep() {
-		
+
 	}
-	
+
 	public static void clickOnElement(WebElement element) {
 		waitForElement(element).click();
 	}
