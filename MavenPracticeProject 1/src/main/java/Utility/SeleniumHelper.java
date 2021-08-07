@@ -26,6 +26,9 @@ public class SeleniumHelper {
 		
 	}
 	
+	public void gitprep() {
+		
+	}
 	
 	public static void clickOnElement(WebElement element) {
 		waitForElement(element).click();
