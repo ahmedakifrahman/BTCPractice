@@ -22,6 +22,11 @@ public class SeleniumHelper {
 		return p;
 	}
 
+	public void gitprice() {
+		
+	}
+	
+	
 	public static void clickOnElement(WebElement element) {
 		waitForElement(element).click();
 	}
